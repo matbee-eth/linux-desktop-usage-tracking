@@ -1,0 +1,5 @@
+ollama
+guidance
+pynput
+PIL
+Xlib
